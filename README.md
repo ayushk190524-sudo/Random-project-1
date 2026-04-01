@@ -1,5 +1,5 @@
 # Random-project-1
-Just a basic python project, to view see from any coding thingy, to run use terminal, no infinite loop cuz i still gotta make it. MUST HAVE PYTHON DOWNLOADED ON YOUR DEVICE OR IT WONT WORK!!!!, MUST ALWAYS TYPE "py new.py"!
+Just a basic python project, to view see from any coding thingy, to run use terminal, no infinite loop cuz i still gotta make it. MUST HAVE PYTHON DOWNLOADED ON YOUR DEVICE OR IT WONT WORK!!!!, MUST ALWAYS TYPE "py new.py" In terminal to run the codes and please read the codes of what to type in the terminal!
 
 (WARNING!! I DONT KNOW IF THIS WORKS IN EVERY DEVICE OR ANYTHING MORE OR LESS! THIS IS ONLY A BASIC STUFF AND PLEASE DO NOT TAKE IT SERIOUSLY!!)
 THIS IS ONLY DONE DUE TO ENTERTAINMENT PURPOSE AND IS NOT SERIOUSLY MEANT TO HURT PEOPLE OR THEIR FEELINGS OR THE LGBTQ COMMUNITY!!!
