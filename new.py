@@ -11,6 +11,7 @@ elif user_choice == "AAAAAAAAAAAAAAAA" or user_choice == "aaaaaaaaaaaaaaaa" or u
     print("Congrats, you wrote the most dumbest thing but still got it right")
 elif user_choice == "Hi im gay.":
     print("What? Ew.") # MADE ORIGINAL COPYRIGHTED
+elif user_choice == "Im not gay":
     print("Good for u.")
 elif user_choice == "are you single?":
     print("Nah i have a gf unlike your single ass")
