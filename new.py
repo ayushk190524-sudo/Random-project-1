@@ -1,4 +1,4 @@
-user_choice = input("What?: ")
+user_choice = input("What... I am alive on linux now, say thx to the dum coder btw, now, what...: ")
 if user_choice == "A" or user_choice == "a":
     print("You will always be happy")
 elif user_choice == "B" or user_choice == "b" or user_choice == "SKIBIDI TOILET IS GOOD" or user_choice == "skibidi toilet is good":
@@ -35,16 +35,3 @@ elif user_choice == "bro im bored." or user_choice == "im bored" or user_choice 
     print("womp womp. sleep or die idc. jst shut your annoying ahh up for now.")
 elif user_choice == "bro can i have your number?" or user_choice == "can i have your number?" or user_choice == "bro can i have ur number?" or user_choice == "can i have ur number?":
     print("No you freak. Ask my coder for it. Oh hold up. You dont have the guts to ask him. Womp womp. go cry in the corner LOL")
-a = input('Wanna continue bbg? (y/n): ')
-if a == "y" or a == "Y":
-    print("F U")
-    input("WHAT NOW? FUN FACT, DOESNT MATTER IM CLOSING MYSELF:")
-    print("BYE LOSER")
-
-elif a == "n" or a == "N":
-    print("finally get out loser")
-
-input("still here? this is a ending thingy or whatever, this was made by a lazy and bored coder (DUDE TEENAGER LIKE THIS IS MADE BY A ACTUAL TEENAGER shame on you if you copy all these codes, if you learn from this, well n good, if u copying this, shame on you) so idc what you say bout him im still closing myself, later loser:")
-print("bye")
-
-input("WHAT RU DOING STILL HERE DUMAHH?? I TOLD U THIS IS ALREADY ENDING THINGY, GO OUT AND TOUCH SOME GRASS LOSER, CHAT RESTRICTION = 0 : ")
